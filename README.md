@@ -29,7 +29,7 @@ Network consists of
 * Stacking hidden layers
   * The output of transpose convolution layers are stacked with the output of  encoder first half.
 
-
+![Net](Images/net.png)
 
 --------
 
